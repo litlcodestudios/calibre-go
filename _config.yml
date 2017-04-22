@@ -1,0 +1,8 @@
+title: Calibre-go
+description: Your calibre e-book library, on the Go!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
